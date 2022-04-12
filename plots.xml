@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plots>
+  <plot basis="xy" color_by="material" id="1" type="slice">
+    <origin>0.0 0.0 0.0</origin>
+    <width>350 350</width>
+    <pixels>2000 2000</pixels>
+    <color id="14" rgb="255 215 0" />
+    <color id="17" rgb="255 0 255" />
+    <color id="18" rgb="169 169 169" />
+    <color id="19" rgb="240 255 255" />
+    <color id="20" rgb="210 105 30" />
+    <color id="21" rgb="0 0 255" />
+    <color id="22" rgb="50 205 50" />
+    <color id="24" rgb="0 128 0" />
+  </plot>
+  <plot basis="xz" color_by="material" id="2" type="slice">
+    <origin>0.0 0.0 0.0</origin>
+    <width>350 350</width>
+    <pixels>2000 2000</pixels>
+    <color id="14" rgb="255 215 0" />
+    <color id="17" rgb="255 0 255" />
+    <color id="18" rgb="169 169 169" />
+    <color id="19" rgb="240 255 255" />
+    <color id="20" rgb="210 105 30" />
+    <color id="21" rgb="0 0 255" />
+    <color id="22" rgb="50 205 50" />
+    <color id="24" rgb="0 128 0" />
+  </plot>
+  <plot basis="yz" color_by="material" id="3" type="slice">
+    <origin>0.0 0.0 0.0</origin>
+    <width>350 350</width>
+    <pixels>2000 2000</pixels>
+    <color id="14" rgb="255 215 0" />
+    <color id="17" rgb="255 0 255" />
+    <color id="18" rgb="169 169 169" />
+    <color id="19" rgb="240 255 255" />
+    <color id="20" rgb="210 105 30" />
+    <color id="21" rgb="0 0 255" />
+    <color id="22" rgb="50 205 50" />
+    <color id="24" rgb="0 128 0" />
+  </plot>
+</plots>

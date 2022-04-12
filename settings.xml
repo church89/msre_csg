@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>10</particles>
+  <batches>20</batches>
+  <inactive>5</inactive>
+  <source strength="1.0">
+    <space type="fission">
+      <parameters>-70 -70 -200 70 70 200</parameters>
+    </space>
+  </source>
+  <surf_source_write>
+    <surface_ids>995</surface_ids>
+    <max_particles>10000</max_particles>
+  </surf_source_write>
+  <photon_transport>true</photon_transport>
+</settings>
